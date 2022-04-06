@@ -1,0 +1,1 @@
+sqlplus emmanuel/emmanuel@LAPTOP-JED0L27F:1521/XEPDB1
